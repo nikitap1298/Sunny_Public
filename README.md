@@ -13,18 +13,12 @@ AppStore: https://apple.co/43Sht1T
 - Realm
 - RevenueCat
 - SPIndicator
+- Firebase
 
 
 ## API
 - WeatherKit REST API
 - OpenWeather REST API
-
-## External Libraries
-- Alamofire
-- SwipeCellKit
-- SPIndicator
-- Charts
-- Firebase Crashlytics
 
 ## Compatibility
 - iPhone<br>
