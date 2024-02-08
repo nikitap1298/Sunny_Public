@@ -31,8 +31,10 @@ AppStore: https://apple.co/43Sht1T
 Requires iOS 14.0 or later<br>
 
 ## Previews
-<img src="./ScreenShots/1.png" width=235,75 height=450>
-<img src="./ScreenShots/2.png" width=235,75 height=450>
-<img src="./ScreenShots/3.png" width=235,75 height=450>
-<img src="./ScreenShots/4.png" width=235,75 height=450>
-<img src="./ScreenShots/5.png" width=235,75 height=450>
+<div>
+  <img src="./ScreenShots/1.png" width=256,8 height=555,6>
+  <img src="./ScreenShots/2.png" width=256,8 height=555,6>
+  <img src="./ScreenShots/3.png" width=256,8 height=555,6>
+  <img src="./ScreenShots/4.png" width=256,8 height=555,6>
+  <img src="./ScreenShots/5.png" width=256,8 height=555,6>
+</div>
