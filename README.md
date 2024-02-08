@@ -1,6 +1,6 @@
 # Sunny: Weather Forecast
 Sunny - my final project (weather app) in the iOS Development course in TeachMeSkills school.<br>
-This is a copy of my project. Some features aren't included in this repository.
+This is a copy of my project.
 
 AppStore: https://apple.co/43Sht1T
 
