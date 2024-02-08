@@ -1,0 +1,209 @@
+/* 
+  Localizable.strings
+  Sunny
+
+  Created by Nikita Pishchugin on 01.12.2022.
+  
+*/
+
+// Settings Screen
+"settingsNavTitleKey" = "Параметри";
+
+"temperatureButtonKey" = "Температура";
+
+"speedButtonKey" = "Швидкість";
+"speedButtonLeftValueKey" = "м/с";
+"speedButtonRightValueKey" = "ярд/с";
+
+"pressureButtonKey" = "Давление";
+"pressureButtonLeftValueKey" = "мм.рт.c";
+"pressureButtonRightValueKey" = "гПа";
+
+"precipitationButtonKey" = "Опади";
+"precipitationButtonLeftValueKey" = "мм";
+"precipitationButtonRightValueKey" = "дюйм";
+
+"distanceButtonKey" = "Відстань";
+"distanceButtonLeftValueKey" = "км";
+"distanceButtonRightValueKey" = "ми";
+
+"timeFormatButtonKey" = "Формат Часу";
+"timeFormatButtonLeftValueKey" = "24-ч";
+"timeFormatButtonRightValueKey" = "12-ч";
+
+"appearanceButtonKey" = "Оформлення";
+"notificationButtonKey" = "Повідомлення";
+"aboutButtonKey" = "Про нас";
+"rateUsButtonKey" = "Оцінити";
+"contactUsButtonKey" = "Контакти";
+"subscribeButtonKey" = "Підписка";
+
+// Appearance Screen
+"appearanceNavTitleKey" = "Оформлення";
+"lightLabelKey" = "Світле";
+"darkLabelKey" = "Темное";
+"systemLabelKey" = "Системне";
+
+// About Screen
+"aboutNavTitleKey" = "Про нас";
+"developerLabelKey" = "Розробник";
+"versionLabelKey" = "Версія";
+"illustrationsLabelKey" = "Іконки";
+"termsOfUseLabelKey" = "Умови вик.";
+"privacyPolicyLabelKey" = "Політика конф.";
+
+// Subscription Screen
+"subscriptionNavTitleKey" = "Підписка";
+"subscriptionHeaderLabelKey" = "Pro доступу";
+"subscriptionDescriptionLabelKey" = "Переглядайте точну погоду в різних куточках світу з детальною інформацією";
+"subscriptionMonthlyButtonType1Key" = " / Місяць";
+"subscriptionMonthlyButtonType2Key" = "Активовано";
+"subscriptionOneWeekTrialLabelKey" = "1-тиждень безкоштовного доступу";
+"subscriptionRestorePurchasesButtonKey" = "Відновлення Покупок";
+"subscriptionAlertActionTitleKey" = "Готово";
+"subscriptionAlertSuccessfulTitleKey" = "Успішно";
+"subscriptionAlertSuccessfulMessageKey" = "Підписку відновлено";
+"subscriptionAlertFailedTitleKey" = "Не вдалося.";
+"subscriptionAlertFailedMessageKey" = "У вас немає підписок";
+
+// Search Screen
+"searchNavTitleKey" = "Пошук";
+"searchTextFieldPlaceholderKey" = "Пошук місця";
+"cancelButtonKey" = "Скасувати";
+"addedCityTextKey" = "Місце вже додано";
+"limitReachedTextKey" = "Ліміт місць досягнуто";
+"currentLocationCellKey" = "Моя Локація";
+"placeNotFoundTitleKey" = "Місце не знайдено";
+
+"coordinatesAlertTitleKey" = "Введіть координати";
+"coordinatesAlertLatitudeKey" = "Широта";
+"coordinatesAlertLongitudeKey" = "Довгота";
+"coordinatesAlertOkKey" = "Пошук";
+"coordinatesAlertCancelKey" = "Відміна";
+
+// ConditionDescription
+"feelsLikeTextKey" = "Відчувається як";
+"precipitationTextKey" = "Опади";
+"clothesTextKey" = "Одяг";
+"pressureTextKey" = "Давление";
+"humidityTextKey" = "Вологість";
+"visibilityTextKey" = "Видимість";
+"windTextKey" = "Вітер";
+"cloudCoverTextKey" = "Хмарність";
+"uvIndexTextKey" = "Індекс УФ";
+"airQualityTextKey" = "Як. повітря";
+"sunriseTextKey" = "Схід";
+"sunsetTextKey" = "Захід";
+"falloutChanceTextKey" = "Імовірність";
+
+// GraphText
+"onboardingVCGraphTextKey" = "Відчувається як у наступні 24 години";
+"dayVCGraphTextKey" = " впродовж дня";
+
+// Onboarding Screen
+"onboardingNavTitleKey" = "Погода";
+"cityLabelKey" = "Місто";
+"descriptionLabelKey" = "";
+"todayButtonKey" = "Сьогодні";
+"next10DaysButtonKey" = "10 Днів";
+
+// Clothes Description
+"tShirtTextKey" = "Футболка";
+"shirtTextKey" = "Сорочка";
+"hoodieTextKey" = "Толстовка";
+"jacketTextKey" = "Куртка";
+"warmJacketTextKey" = "Шуба";
+
+// Air Pollution
+"goodTextKey" = "Добре";
+"fairTextKey" = "Нормальне";
+"moderateTextKey" = "Помірне";
+"poorTextKey" = "Погане";
+"veryPoorTextKey" = "Ду. погане";
+
+// Weather Description
+"clearTextKey" = "Ясно";
+"cloudyTextKey" = "Хмарно";
+"dustTextKey" = "Пильно";
+"fogTextKey" = "Туман";
+"hazeTextKey" = "Димка";
+"mostlyClearTextKey" = "Ясно";
+"mostlyCloudyTextKey" = "Хмарно";
+"partlyCloudyTextKey" = "Хмарно";
+"scatteredThunderstormsTextKey" = "Гроза";
+"smokeTextKey" = "Димка";
+"breezyTextKey" = "Вітряно";
+"windyTextKey" = "Вітряно";
+"drizzleTextKey" = "Зморось";
+"heavyRainTextKey" = "Проливний дощ";
+"rainTextKey" = "Дощ";
+"showersTextKey" = "Злива";
+"flurriesTextKey" = "Злива";
+"heavySnowTextKey" = "Снігопад";
+"mixedRainAndSleetTextKey" = "Мокрий сніг";
+"mixedRainAndSnowTextKey" = "Дощ зі снігом";
+"mixedRainfallTextKey" = "Змішані опади";
+"mixedSnowAndSleetTextKey" = "Сніг із дощем";
+"scatteredShowersTextKey" = "Злива";
+"scatteredSnowShowersTextKey" = "Сніг";
+"sleetTextKey" = "Мокрий сніг";
+"snowTextKey" = "Сніг";
+"snowShowersTextKey" = "Снігопад";
+"blizzardTextKey" = "Заметіль";
+"blowingSnowTextKey" = "Сніг";
+"freezingDrizzleTextKey" = "Зморось";
+"freezingRainTextKey" = "Крижаний дощ";
+"frigidTextKey" = "Заморозки";
+"hailTextKey" = "Град";
+"hotTextKey" = "Спека";
+"hurricaneTextKey" = "Буревій";
+"isolatedThunderstormsTextKey" = "Гроза";
+"severeThunderstormTextKey" = "Гроза";
+"thunderstormTextKey" = "Гроза";
+"tornadoTextKey" = "Торнадо";
+"tropicalStormTextKey" = "Тропічний ураган";
+
+// NoInternet Screen
+"weatherUnavailableLabelKey" = "Погода недоступна";
+"noInternetLabelKey" = "Sunny не підключений до інтернету. Щоб дивитися погоду, перевірте інтернет-з'єднання і перезапустіть застосунок.";
+"goToSettingsButtonKey" = "Відкрити налаштування";
+
+// Mail Field
+"mailTemplateFirstSentenseTextKey" = "Напишіть ваш відгук або ідеї як поліпшити додаток.";
+"mailTemplateSecondSentenseTextKey" = "Якщо у вас є якісь помилки з додатком, поки ви його використовуєте, то ви можете написати тут теж.";
+"mailTemplateSunnyVersionTextKey" = "Sunny App версія:";
+"mailTemplateSunnyVersionOptionalTextKey" = "Щось пішло не так. Будь ласка, напишіть версію програми.";
+"mailTemplateIOSVersionTextKey" = "Поточна iOS версія:";
+"mailTemplateDeviceModelVersionTextKey" = "Модель пристрою:";
+
+// Tutorial Screen
+"tutorialTitle0Key" = "Ласкаво просимо!";
+"tutorialTitle1Key" = "Екран погоди";
+"tutorialTitle2Key" = "Погодинний прогноз";
+"tutorialTitle3Key" = "Щоденний прогноз";
+"tutorialTitle4Key" = "Екран пошуку";
+"tutorialTitle5Key" = "Екран налаштувань";
+"tutorialTitle6Key" = "Важливо!";
+ 
+"tutorialText0Key" = "У наступних кроках ви побачите інформацію про те, як мною користуватися.";
+"tutorialText1Key" = "Дивіться поточний прогноз на наступні 24 години та 10 днів.";
+"tutorialText2Key" = "Дивіться погоду на найближчі 24 години. Натиснувши на певну годину, ви побачите детальний прогноз.";
+"tutorialText3Key" = "Дивіться погоду на найближчі 10 днів. Натиснувши на конкретний день, ви побачите детальний прогноз.";
+"tutorialText4Key" = "Шукайте погоду в будь-якій точці світу. Підтримує збереження до 5 місць (не враховуючи поточне місцезнаходження).";
+"tutorialText5Key" = "Перемикайтеся між системами вимірювання так, як вам зручно.";
+"tutorialText6Key" = "Після оформлення підписки ви матимете 7 днів безкоштовного доступу до додатка. Ви можете скасувати підписку протягом цього часу, тоді з вас не стягуватиметься плата.";
+
+"tutorialButton0Key" = "Почати";
+"tutorialButton1Key" = "Крок 1";
+"tutorialButton2Key" = "Крок 2";
+"tutorialButton3Key" = "Крок 3";
+"tutorialButton4Key" = "Крок 4";
+"tutorialButton5Key" = "Крок 5";
+"tutorialButton6Key" = "Продовжуйте";
+
+// Map Screen
+"mapNavTitleKey" = "Карта";
+"mapTypeHybridKey" = "Гібрид";
+"mapTypeSatelliteKey" = "Супутник";
+"mapTypeMutedStandartKey" = "Приглушений стандарт";
+"mapTypeStandartKey" = "Стандарт";

@@ -1,0 +1,209 @@
+/* 
+  Localizable.strings
+  Sunny
+
+  Created by Nikita Pishchugin on 01.12.2022.
+  
+*/
+
+// Settings Screen
+"settingsNavTitleKey" = "Settings";
+
+"temperatureButtonKey" = "Temperature";
+
+"speedButtonKey" = "Speed";
+"speedButtonLeftValueKey" = "m/s";
+"speedButtonRightValueKey" = "yd/s";
+
+"pressureButtonKey" = "Pressure";
+"pressureButtonLeftValueKey" = "mmHg";
+"pressureButtonRightValueKey" = "hPa";
+
+"precipitationButtonKey" = "Precipitation";
+"precipitationButtonLeftValueKey" = "mm";
+"precipitationButtonRightValueKey" = "inch";
+
+"distanceButtonKey" = "Distance";
+"distanceButtonLeftValueKey" = "km";
+"distanceButtonRightValueKey" = "mi";
+
+"timeFormatButtonKey" = "Time Format";
+"timeFormatButtonLeftValueKey" = "24-h";
+"timeFormatButtonRightValueKey" = "12-h";
+
+"appearanceButtonKey" = "Appearance";
+"notificationButtonKey" = "Notification";
+"aboutButtonKey" = "About";
+"rateUsButtonKey" = "Rate Us";
+"contactUsButtonKey" = "Contact Us";
+"subscribeButtonKey" = "Subscription";
+
+// Appearance Screen
+"appearanceNavTitleKey" = "Appearance";
+"lightLabelKey" = "Light";
+"darkLabelKey" = "Dark";
+"systemLabelKey" = "System";
+
+// About Screen
+"aboutNavTitleKey" = "About";
+"developerLabelKey" = "Developer";
+"versionLabelKey" = "Version";
+"illustrationsLabelKey" = "Illustrations";
+"termsOfUseLabelKey" = "Terms of Use";
+"privacyPolicyLabelKey" = "Privacy Policy";
+
+// Subscription Screen
+"subscriptionNavTitleKey" = "Subscription";
+"subscriptionHeaderLabelKey" = "Pro Access Plan";
+"subscriptionDescriptionLabelKey" = "View accurate weather in different parts of the world with detailed information";
+"subscriptionMonthlyButtonType1Key" = " / Month";
+"subscriptionMonthlyButtonType2Key" = "Is Active";
+"subscriptionOneWeekTrialLabelKey" = "1-week free trial";
+"subscriptionRestorePurchasesButtonKey" = "Restore Purchases";
+"subscriptionAlertActionTitleKey" = "Done";
+"subscriptionAlertSuccessfulTitleKey" = "Successful";
+"subscriptionAlertSuccessfulMessageKey" = "Subscription restored";
+"subscriptionAlertFailedTitleKey" = "Failed";
+"subscriptionAlertFailedMessageKey" = "You don't have any subscriptions";
+
+// Search Screen
+"searchNavTitleKey" = "Search";
+"searchTextFieldPlaceholderKey" = "Search for a place";
+"cancelButtonKey" = "Cancel";
+"addedCityTextKey" = "Place is already added";
+"limitReachedTextKey" = "Place limit reached";
+"currentLocationCellKey" = "My Location";
+"placeNotFoundTitleKey" = "Place not found";
+
+"coordinatesAlertTitleKey" = "Enter coordinates";
+"coordinatesAlertLatitudeKey" = "Latitude";
+"coordinatesAlertLongitudeKey" = "Longitude";
+"coordinatesAlertOkKey" = "Search";
+"coordinatesAlertCancelKey" = "Cancel";
+
+// ConditionDescription
+"feelsLikeTextKey" = "Feels like";
+"precipitationTextKey" = "Precipitation";
+"clothesTextKey" = "Clothes";
+"pressureTextKey" = "Pressure";
+"humidityTextKey" = "Humidity";
+"visibilityTextKey" = "Visibility";
+"windTextKey" = "Wind";
+"cloudCoverTextKey" = "Cloud cover";
+"uvIndexTextKey" = "UV index";
+"airQualityTextKey" = "Air quality";
+"sunriseTextKey" = "Sunrise";
+"sunsetTextKey" = "Sunset";
+"falloutChanceTextKey" = "Fallout chance";
+
+// GraphText
+"onboardingVCGraphTextKey" = "Feels like in the next 24 hours";
+"dayVCGraphTextKey" = " for the day";
+
+// Onboarding Screen
+"onboardingNavTitleKey" = "Weather";
+"cityLabelKey" = "City";
+"descriptionLabelKey" = "";
+"todayButtonKey" = "Today";
+"next10DaysButtonKey" = "10 Days";
+
+// Clothes Description
+"tShirtTextKey" = "T-Shirt";
+"shirtTextKey" = "Shirt";
+"hoodieTextKey" = "Hoodie";
+"jacketTextKey" = "Jacket";
+"warmJacketTextKey" = "Warm jacket";
+
+// Air Pollution
+"goodTextKey" = "Good";
+"fairTextKey" = "Fair";
+"moderateTextKey" = "Moderate";
+"poorTextKey" = "Poor";
+"veryPoorTextKey" = "Very poor";
+
+// Weather Description
+"clearTextKey" = "Clear";
+"cloudyTextKey" = "Cloudy";
+"dustTextKey" = "Dust";
+"fogTextKey" = "Fog";
+"hazeTextKey" = "Haze";
+"mostlyClearTextKey" = "Mostly Clear";
+"mostlyCloudyTextKey" = "Mostly Cloudy";
+"partlyCloudyTextKey" = "Partly Cloudy";
+"scatteredThunderstormsTextKey" = "Scattered Thunderstorms";
+"smokeTextKey" = "Smoke";
+"breezyTextKey" = "Breezy";
+"windyTextKey" = "Windy";
+"drizzleTextKey" = "Drizzle";
+"heavyRainTextKey" = "Heavy Rain";
+"rainTextKey" = "Rain";
+"showersTextKey" = "Showers";
+"flurriesTextKey" = "Flurries";
+"heavySnowTextKey" = "Heavy Snow";
+"mixedRainAndSleetTextKey" = "Rain with Sleet";
+"mixedRainAndSnowTextKey" = "Rain with Snow";
+"mixedRainfallTextKey" = "Mixed Rainfall";
+"mixedSnowAndSleetTextKey" = "Snow with Sleet";
+"scatteredShowersTextKey" = "Scattered Showers";
+"scatteredSnowShowersTextKey" = "Snow Showers";
+"sleetTextKey" = "Sleet";
+"snowTextKey" = "Snow";
+"snowShowersTextKey" = "Snow Showers";
+"blizzardTextKey" = "Blizzard";
+"blowingSnowTextKey" = "Blowing Snow";
+"freezingDrizzleTextKey" = "Freezing Drizzle";
+"freezingRainTextKey" = "Freezing Rain";
+"frigidTextKey" = "Frigid";
+"hailTextKey" = "Hail";
+"hotTextKey" = "Hot";
+"hurricaneTextKey" = "Hurricane";
+"isolatedThunderstormsTextKey" = "Isolated Thunderstorms";
+"severeThunderstormTextKey" = "Severe Thunderstorm";
+"thunderstormTextKey" = "Thunderstorm";
+"tornadoTextKey" = "Tornado";
+"tropicalStormTextKey" = "Tropical Storm";
+
+// NoInternet Screen
+"weatherUnavailableLabelKey" = "Weather Unavailable";
+"noInternetLabelKey" = "The Sunny app isn't connected to the internet. To view weather, check your connection, then restart the app.";
+"goToSettingsButtonKey" = "Go to Settings";
+
+// Mail Field
+"mailTemplateFirstSentenseTextKey" = "Write here your feedback or ideas how to improve the app.";
+"mailTemplateSecondSentenseTextKey" = "If you experienced any issues while using the app, you can write here too.";
+"mailTemplateSunnyVersionTextKey" = "Sunny App version:";
+"mailTemplateSunnyVersionOptionalTextKey" = "Something went wrong. Please write app version by yourself.";
+"mailTemplateIOSVersionTextKey" = "Current iOS version:";
+"mailTemplateDeviceModelVersionTextKey" = "Device model:";
+
+// Tutorial Screen
+"tutorialTitle0Key" = "Welcome!";
+"tutorialTitle1Key" = "Weather Screen";
+"tutorialTitle2Key" = "Hourly Forecast";
+"tutorialTitle3Key" = "Daily Forecast";
+"tutorialTitle4Key" = "Search Screen";
+"tutorialTitle5Key" = "Settings Screen";
+"tutorialTitle6Key" = "Important!";
+ 
+"tutorialText0Key" = "In the next steps you'll see some information about how to use me.";
+"tutorialText1Key" = "Watch current, next 24 hours and next 10 days forecast.";
+"tutorialText2Key" = "Watch the weather for the next 24 hours. By clicking on a particular hour, you will see a detailed forecast.";
+"tutorialText3Key" = "Watch the weather for the next 10 days. By clicking on a particular day, you will see a detailed forecast.";
+"tutorialText4Key" = "Search the weather in places around the world. Supports saving up to 5 places (not including current location).";
+"tutorialText5Key" = "Switch between measurement systems the way you want to.";
+"tutorialText6Key" = "After you subscribe, you will have 7 days of free access to the app. You can cancel your subscription during this time, then you will not be charged.";
+
+"tutorialButton0Key" = "Get Started";
+"tutorialButton1Key" = "Step 1";
+"tutorialButton2Key" = "Step 2";
+"tutorialButton3Key" = "Step 3";
+"tutorialButton4Key" = "Step 4";
+"tutorialButton5Key" = "Step 5";
+"tutorialButton6Key" = "Continue";
+
+// Map Screen
+"mapNavTitleKey" = "Map";
+"mapTypeHybridKey" = "Hybrid";
+"mapTypeSatelliteKey" = "Satellite";
+"mapTypeMutedStandartKey" = "Muted Standart";
+"mapTypeStandartKey" = "Standart";
