@@ -4,12 +4,6 @@ This is a copy of my project. Some features aren't included in this repository.
 
 AppStore: https://apple.co/43Sht1T
 
-If you want to try this app you should: 
-- have an Apple Developer Account
-- create JSON Web Token
-- paste this token in (Sunny -> JWT -> JWT.swift -> tokenForWeatherKit)
-
-
 ## API
 - WeatherKit REST API
 - OpenWeather REST API
