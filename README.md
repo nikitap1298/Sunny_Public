@@ -4,6 +4,17 @@ This is a copy of my project. Some features aren't included in this repository.
 
 AppStore: https://apple.co/43Sht1T
 
+## Stack
+- Swift,
+- UIKit,
+- Alamofire,
+- Charts,
+- SwipeCellKit,
+- Realm,
+- RevenueCat,
+- SPIndicator
+
+
 ## API
 - WeatherKit REST API
 - OpenWeather REST API
